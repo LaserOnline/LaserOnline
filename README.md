@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application Developer
 ----------------------------
 
-l'vm been learning Flutter React JSX
+
 
 * 🌍  I'm based in Bangkok Thailand
 
